@@ -25,6 +25,6 @@ projects:
     link: "#"
     tagline: "항해등 데이터를 LSTM을 통한  연속적인대화 챗봇개발"
   - project:
-    title: 가천대학교 학사챗 봇
+    title: 가천대학교 학사챗봇
     link: "#"
     tagline: "가천대학교 학사정보에 대한 질문을 ML을 통한 채팅기반의 챗봇 개발"
