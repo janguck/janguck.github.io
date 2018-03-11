@@ -1,12 +1,20 @@
 - skill:
-  name: Python & Java
+  name: - Python & Java
 - skill:
-  name: HTML & CSS & Apache & Javascript & jQuery & Django & Bootstrap
+  name: - HTML & CSS & Bootstrap
 - skill:
-  name: Pandas & Numpy & Scikit-Learn & Tensorflow
+  name: - Apache & Django
 - skill:
-  name: Linux & Mac
+  name: - Javascript & jQuery
 - skill:
-  name: MySQL & PostreSQL
+  name: - Pandas & Scikit-Learn
 - skill:
-  name: Git & Github & Jupyter & Pycharm
+  name: - Numpy & Tensorflow
+- skill:
+  name: - Linux & Mac
+- skill:
+  name: - MySQL & PostreSQL
+- skill:
+  name: - Git & Github 
+- skill:
+  name: - Jupyter & Pycharm
