@@ -23,7 +23,7 @@ projects:
   - project:
     title: MARINE 봇
     link: "#"
-    tagline: "항해등 데이터를 LSTM을 통한  연속적인대화 챗봇개발"
+    tagline: "항해등 데이터를 LSTM을 통한  연속적인대화가 가능한 챗봇개발"
   - project:
     title: 가천대학교 학사챗봇
     link: "#"
