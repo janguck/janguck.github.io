@@ -1,23 +1,30 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "PPT, Code, 동영상중 1개를 첨부하였습니다."
 projects:
   - project:
-    title: Velocity
+    title: 가천해커톤 음주측정기(2016)
     link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: "블루투스와 아두이노를 통한 스마트폰 음주측정기"
   - project:
-    title: DevStudio
+    title: Kaggle 대회참여(Two Sigma Connect Rental Listing Inquiries)
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "집의 특성을 활용하여 입주자의 만족도 조사"
   - project:
-    title: Tempo
+    title: 빅콘테스트(2017)
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "보험,통신,신용평가사 데이터를 활용한 대출상환 예측 알고리즘 개발"
   - project:
-    title: Atom
+    title: 2017년 춘계공동학술대회 포스터 발표
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "딥러닝을 통한 특허문서 멀티라벨링"
   - project:
-    title: Delta
+    title: 자비스봇(세무,회계)
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "(주) 자비스앤빌런즈사의 CS데이터를 활용한 챗봇개발"
+  - project:
+    title: MARINE 봇
+    link: "#"
+    tagline: "항해등 데이터를 LSTM을 통한  연속적인대화 챗봇개발"
+  - project:
+    title: 가천대학교 학사챗 봇
+    link: "#"
+    tagline: "가천대학교 학사정보에 대한 질문을 ML을 통한 채팅기반의 챗봇 개발"
