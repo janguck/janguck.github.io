@@ -15,7 +15,7 @@ publications:
     title: Convolutional neural networks for sentence classification (2014)
     authors: Y.Kim et al.
   - paper:
-    title: Glove: Global vectors for word representation (2014)
+    title: Glove Global vectors for word representation (2014)
     authors: J.Pennington et al.
   - paper:
     title: Distributed representations of sentences and documents (2014)
