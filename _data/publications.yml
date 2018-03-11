@@ -1,5 +1,25 @@
 publications:
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title: Neural Architectures for Named Entity Recognition (2016)
+    authors: G.Lample et al.
+  - paper:
+    title: Effective approaches to attention-based neural machine translation (2015)
+    authors: M.Luong et al.
+  - paper:
+    title: Sequence to sequence learning with neural networks (2014)
+    authors: I.Sutskeveret al.
+  - paper:
+    title: Learning phrase representations using RNN encoder-decoder for statistical machine translation (2014)
+    authors: K.Cho et al.
+  - paper:
+    title: Convolutional neural networks for sentence classification (2014)
+    authors: Y.Kim et al.
+  - paper:
+    title: Glove: Global vectors for word representation (2014)
+    authors: J.Pennington et al.
+  - paper:
+    title: Distributed representations of sentences and documents (2014)
+    authors: Q. Le and T. Mikolov
+  - paper:
+    title: Distributed representations of words and phrases and their compositionality (2013)
+    authors: T. Mikolov et al.
