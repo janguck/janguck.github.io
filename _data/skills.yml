@@ -5,16 +5,16 @@
 - skill:
   name: 3.Apache & Django
 - skill:
-  name: Javascript & jQuery
+  name: 4.Javascript & jQuery
 - skill:
-  name: Pandas & Scikit-Learn
+  name: 5.Pandas & Scikit-Learn
 - skill:
-  name: Numpy & Tensorflow
+  name: 6.Numpy & Tensorflow
 - skill:
-  name: Linux & Mac
+  name: 7.Linux & Mac
 - skill:
-  name: MySQL & PostreSQL
+  name: 8.MySQL & PostreSQL
 - skill:
-  name: Git & Github 
+  name: 9.Git & Github 
 - skill:
-  name: Jupyter & Pycharm
+  name: 10.Jupyter & Pycharm
