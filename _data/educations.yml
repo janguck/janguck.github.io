@@ -1,8 +1,8 @@
 - education:
-  degree: Double Major(Industrial Engineering, Computer Engineering)
+  degree: Undergraduate in Industrial Engineering
   university: Gachon University
   time: 2013.3 - 2019.2 (expected)
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+- education:
+  degree: Undergraduate in Computer Engineering
+  university: Gachon University
+  time: 2013.3 - 2019.2 (expected)
