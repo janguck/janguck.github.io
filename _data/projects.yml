@@ -1,30 +1,37 @@
 intro: "PPT, Code, 동영상중 1개를 첨부하였습니다."
 projects:
     - project:
-      title: 가천대학교 학사챗봇 <2017.09~2018.01>
+      title: 가천대학교 학사챗봇
+      time : 2017.09~2018.01
       link: "https://drive.google.com/open?id=10B6KsNHDA4qGTYR55Wv3cMlYb6xDLhXT"
       tagline: "가천대학교 학사정보에 대한 질문을 ML을 통한 채팅기반의 챗봇 개발"
     - project:
-      title: MARINE 봇 <2017.08~2017.11>
+      title: MARINE 챗봇
+      time : 2017.08~2017.11
       link: "https://drive.google.com/open?id=1eA6MXX6gpwkmT5TYRnHI68L-Nc1qd6Vt"
       tagline: "항해,등 데이터를 활용한 챗봇개발"
     - project:
-      title: 자비스봇(세무,회계)<2017.03~2017.08>
+      title: 자비스 챗봇(세무,회계)<2017.03~2017.08>
+      time : 2017.03~2017.08
       link: "https://drive.google.com/open?id=1H3kQrXiYrcZUsLWL1D0hgPC0FGfUnzxf"
       tagline: "(주) 자비스앤빌런즈사의 CS데이터를 활용한 챗봇개발"
     - project:
       title: 빅콘테스트(2017)
+      time :
       link: "https://github.com/janguck/bigteam"
       tagline: "보험,통신,신용평가사 데이터를 활용한 대출상환 예측 알고리즘 개발"
     - project:
       title: 2017년 춘계공동학술대회 포스터 발표
+      time : 
       link: "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07169538"
       tagline: "딥러닝을 통한 특허문서 멀티라벨링"
     - project:
-      title: Kaggle 대회참여(Two Sigma Connect Rental Listing Inquiries)<<2016.03~2016.06>
+      title: Kaggle 대회참여(Two Sigma Connect Rental Listing Inquiries)
+      time : 2016.03~2016.06
       link: "https://github.com/TeamLab/lecture/blob/master/business_intelligence/project/Jangsion.md"
       tagline: "집의 특성을 활용하여 입주자의 만족도 조사"
     - project:
       title: 가천해커톤 음주측정기(2016)
+      time : 
       link: "https://drive.google.com/open?id=1iulUqFbsbSPGlzUKVHRZ9gVfVJo3oBdU"
       tagline: "블루투스와 아두이노를 통한 스마트폰 음주측정기"
