@@ -1,7 +1,7 @@
 intro: "PPT, Code, 동영상중 1개를 첨부하였습니다."
 projects:
     - project:
-      title: 가천대학교 학사챗봇
+      title: 가천대학교 학사챗봇<2017.09~2018.01>
       link: "https://drive.google.com/open?id=10B6KsNHDA4qGTYR55Wv3cMlYb6xDLhXT"
       tagline: "가천대학교 학사정보에 대한 질문을 ML을 통한 채팅기반의 챗봇 개발"
     - project:
