@@ -1,26 +1,21 @@
 - skill:
-  name: 1.Python & Javasadqwdqwdqwdqwdqwdqwdqwd
+  category: Languages
+  detail: Python & Java
 - skill:
-  name: 2.HTML & CSS & Bootstrap
+  category: Data Analysis
+  detail: Pandas & Numpy & Scikit-Learn & Tensorflow
 - skill:
-  name: 3.Apache & Django
+  category: Web
+  detail: HTML & CSS & JavaScript & JQuery & Ajax & Bootstrap & Django & Apache
 - skill:
-  name: 4.Javascript & jQuery
+  category: Database
+  detail: MySQL & PostreSQL
 - skill:
-  name: 5.Pandas & Scikit-Learn
+  category: Operating Systems
+  detail: Ubuntu(Linux) & Mac
 - skill:
-  name: 6.Numpy & Tensorflow
-- skill:
-  name: 7.Linux & Mac
-- skill:
-  name: 8.MySQL & PostreSQL
-- skill:
-  name: 9.Git & Github 
-- skill:
-  name: 10.Jupyter & Pycharm
+  category: Others
+  detail: Jupyter & Pycharm & Git & Github
 
 
 
-
-- skill:
-    name: - Languages : Python, Java

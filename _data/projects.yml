@@ -24,7 +24,7 @@ projects:
       title: 2017년 춘계공동학술대회 포스터 발표
       time : 
       link: "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07169538"
-      tagline: "딥러닝을 통한 특허문서 멀티라벨링"
+      tagline: "딥러닝을 통한 특허문서 멀티라벨링 프로세스 개발"
     - project:
       title: Kaggle 대회참여(Two Sigma Connect Rental Listing Inquiries)
       time : 2016.03~2016.06
