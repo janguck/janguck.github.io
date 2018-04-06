@@ -26,11 +26,6 @@ projects:
       link: "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07169538"
       tagline: "딥러닝을 통한 특허문서 멀티라벨링 프로세스 개발"
     - project:
-      title: Kaggle 대회참여(Two Sigma Connect Rental Listing Inquiries)
-      time : 2016.03~2016.06
-      link: "https://github.com/TeamLab/lecture/blob/master/business_intelligence/project/Jangsion.md"
-      tagline: "집의 특성을 활용하여 입주자의 만족도 예측"
-    - project:
       title: 가천해커톤 음주측정기(2016)
       time : 
       link: "https://drive.google.com/open?id=1iulUqFbsbSPGlzUKVHRZ9gVfVJo3oBdU"
