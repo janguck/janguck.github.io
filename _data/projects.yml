@@ -21,7 +21,7 @@ projects:
       link: "https://github.com/janguck/bigteam"
       tagline: "보험,통신,신용평가사 데이터를 활용한 대출상환 예측 알고리즘 개발"
     - project:
-      title: Kaggle(Two Sigma Connect: Rental Listing inquiries
+      title: Kaggle(Two Sigma Connect Rental Listing inquiries
       time : 
       link: "https://drive.google.com/open?id=100caCl2xNAdX4WWeTE5aJu0LjGYKARuJ"
       tagline: "집의 특징을 통한 입주자 만족도 예측"
